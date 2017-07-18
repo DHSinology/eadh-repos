@@ -1,5 +1,5 @@
 # eadh-repos
-East Asia digital humanities repositories
+East Asian digital humanities repositories
 
 https://github.com/cbdb-project/crop_books_by_lines
 
