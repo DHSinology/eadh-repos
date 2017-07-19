@@ -23,6 +23,8 @@ https://github.com/kanripo
 
 https://github.com/skruse/PLATIN
 
+https://github.com/stanfordnlp/CoreNLP
+
 https://github.com/thunlp/THULAC-Python
 
 https://github.com/vajlex/tgaz
