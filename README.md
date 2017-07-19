@@ -21,6 +21,8 @@ https://github.com/fxsjy/jieba
 
 https://github.com/humanitiesplusdesign/palladio
 
+https://github.com/IQSS/dataverse
+
 https://github.com/kanripo
 
 https://github.com/skruse/PLATIN
