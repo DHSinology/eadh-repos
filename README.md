@@ -9,6 +9,8 @@ https://github.com/cbdb-project/r_utf8_parser
 
 https://github.com/cga-harvard/cga-worldmap
 
+https://github.com/cltk/cltk
+
 https://github.com/dHumanities/cbdb
 
 https://github.com/dHumanities/markus
