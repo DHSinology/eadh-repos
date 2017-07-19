@@ -11,3 +11,4 @@ https://github.com/dHumanities/cbdb
 
 https://github.com/dHumanities/markus
 
+https://github.com/duncdrum/cbdb-data
